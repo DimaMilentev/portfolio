@@ -56,7 +56,7 @@
         As a tester, I skillfully use Cypress for end-to-end testing, automation, and ensuring the quality of web applications.
     </p>
     <p>
-        <img src="https://scontent.fkiv3-1.fna.fbcdn.net/v/t39.30808-1/325671390_2162196240635079_9102205164833996009_n.png?stp=cp0_dst-png_p40x40&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=LARULa69ZL8AX9oZ2nA&_nc_ht=scontent.fkiv3-1.fna&oh=00_AfCv-7P9VyDBbtS6eKVsj9hJrnEOJ1hd5G8n-nDIAXdszw&oe=654E080A" title="cypress" alt="@cypress" width="20" height="20">
+        <img src="https://w7.pngwing.com/pngs/832/386/png-transparent-intellij-webstorm-macos-bigsur-icon.png" title="websrorm" alt="@websrorm" width="20" height="20">
         As a tester, I use WebStorm as my primary IDE for coding, debugging and maintaining web applications under test.
     </p>
     <p>
